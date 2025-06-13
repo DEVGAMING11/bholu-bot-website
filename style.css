@@ -1,0 +1,35 @@
+body {
+  background-color: #000;
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+  margin: 0;
+  padding: 40px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.pfp {
+  width: 250px;
+  border-radius: 15px;
+  box-shadow: 0 0 15px #00f;
+}
+
+.btn {
+  display: block;
+  margin: 20px auto;
+  padding: 12px 20px;
+  background-color: #007BFF;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  border-radius: 8px;
+  width: 200px;
+}
+
+.btn:hover {
+  background-color: #0056b3;
+}
